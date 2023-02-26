@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_qa_answers",
+  "info": {
+    "displayName": "Answer"
+  },
+  "options": {},
+  "attributes": {
+    "answer": {
+      "type": "string",
+      "required": true
+    },
+    "isCorrect": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
